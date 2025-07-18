@@ -46,7 +46,7 @@ Next up: Leveling up with SQL and real-world data analysis.
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/pranay-jain627/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pranay-jain627/)
 
 ---
 
